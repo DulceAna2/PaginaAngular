@@ -1,0 +1,21 @@
+.fondo {
+  background-image: url("https://planner5d.com/blog/content/images/2022/01/r-architecture-wDDfbanbhl8-unsplash-1.jpg");
+  background-repeat: no-repeat;
+
+}
+#mesita {
+  width: 200px;
+  opacity: 1 !important;
+}
+#mesita:hover {
+  width: 200px;
+  opacity: 1 !important;
+  touch-action: manipulation;
+}
+.hola{
+  width: 2000px;
+  height: 200px;
+}
+.card{
+ margin: 20px;
+}

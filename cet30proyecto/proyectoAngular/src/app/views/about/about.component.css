@@ -1,0 +1,14 @@
+
+
+.container{
+  display: flex;
+  width: 90%;
+  margin: 10px auto;
+  background-color: rgba(201, 92, 92, 0.781);
+  color: #ffffff;
+  padding: 105px;
+}
+img{
+  width: 90%;
+  height:auto;
+}
